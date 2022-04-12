@@ -8,4 +8,4 @@ The student is required to implement an information retrieval engine targeted at
 
 As they are all contained in Python notebooks, the only requirement is to install all dependencies runing the cell where the "pip install -r requirements.txt" is included (the "requirements.txt" file is also available here).
 
-In addition, an Apache open license is included in this repository to ensure that all code contained in it is open source code. 
+In addition, a "queries_text.txt" file (with text pieces employed to compare the results with other groups) and an Apache License (to ensure that all code contained in it is open source code) are included in this repository . 
